@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/2__XOR_Linked_List.dir/main.cpp.o CMakeFiles/2__XOR_Linked_List.dir/Node.cpp.o CMakeFiles/2__XOR_Linked_List.dir/List.cpp.o  -o 2__XOR_Linked_List 

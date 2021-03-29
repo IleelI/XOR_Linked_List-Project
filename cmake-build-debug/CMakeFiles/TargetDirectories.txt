@@ -1,0 +1,3 @@
+/Users/volcent/Documents/Studia/Projekty/AiSD/2. XOR Linked List/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/volcent/Documents/Studia/Projekty/AiSD/2. XOR Linked List/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/volcent/Documents/Studia/Projekty/AiSD/2. XOR Linked List/cmake-build-debug/CMakeFiles/2__XOR_Linked_List.dir

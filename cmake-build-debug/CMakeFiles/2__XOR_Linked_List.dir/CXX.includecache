@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/volcent/Documents/Studia/Projekty/AiSD/2. XOR Linked List/List.h
+Node.h
+/Users/volcent/Documents/Studia/Projekty/AiSD/2. XOR Linked List/Node.h
+main.h
+/Users/volcent/Documents/Studia/Projekty/AiSD/2. XOR Linked List/main.h
+
+/Users/volcent/Documents/Studia/Projekty/AiSD/2. XOR Linked List/Node.h
+main.h
+/Users/volcent/Documents/Studia/Projekty/AiSD/2. XOR Linked List/main.h
+
+/Users/volcent/Documents/Studia/Projekty/AiSD/2. XOR Linked List/main.cpp
+iostream
+-
+List.h
+/Users/volcent/Documents/Studia/Projekty/AiSD/2. XOR Linked List/List.h
+
+/Users/volcent/Documents/Studia/Projekty/AiSD/2. XOR Linked List/main.h
+iostream
+-
+cstdio
+-
+
